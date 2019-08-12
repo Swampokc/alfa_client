@@ -12,7 +12,7 @@
         </div>
         <div id="heroku_links">
             <a href="https://stark-falls-43055.herokuapp.com/"> Server: https://stark-falls-43055.herokuapp.com/ </a> <br/>
-            <a href="https://github.com/Swampokc/client"> Client: https://github.com/Swampokc/client </a>
+            <a href="https://warm-reef-33948.herokuapp.com/#/home"> Client: https://warm-reef-33948.herokuapp.com/ </a>
         </div>
         <div id="nav">
             <router-link to="/home">Home</router-link>
